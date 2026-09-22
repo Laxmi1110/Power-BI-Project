@@ -54,7 +54,7 @@ The dashboard analyzes student financial data to understand spending patterns, i
 
 ## Dashboard
 
-![Student Spending Dashboard](Screenshot%20from%202026-03-10%2018-30-12.png)
+![Student Spending Dashboard](<img width="1366" height="768" alt="Screenshot from 2026-09-23 00-56-36" src="https://github.com/user-attachments/assets/61f6d047-6d86-4bbc-8ff2-f48bb917352e" />)
 
 ## Key Analysis
 
@@ -89,17 +89,3 @@ This project demonstrates how Microsoft Excel can be used to transform raw stude
 **Laxmi Gupta**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel)
-
-## Key Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Analysis
-- Data Visualization
-- Power BI Dashboard Development
-- DAX
-- Power Query
-
-## Conclusion
-
-This project demonstrates how Power BI can be used to transform product data into interactive visualizations and generate meaningful business insights.
