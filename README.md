@@ -1,33 +1,4 @@
 # Adidas Data Analysis Dashboard
-
-## Project Overview
-
-This project is an interactive Adidas Data Analysis Dashboard created using Microsoft Power BI.
-
-The dashboard analyzes Adidas product data to understand pricing, product availability, stock status, categories, colors, and geographic distribution.
-
-## Tools Used
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Visualization
-
-## Key Analysis
-
-- Average List Price vs Average Sale Price
-- Product Stock Analysis
-- Out-of-Stock Products by Color
-- Product Availability by Country
-- Product Analysis by Category and Subcategory
-- Average Available Units
-- In-Stock Percentage
-- Rating and Size Count Analysis
-
-## Dashboard
-
-![Adidas Dashboard](# Student Spending Dashboard
-
 ## Project Overview
 
 This project is an interactive **Student Spending Dashboard** created using Microsoft Excel.
@@ -54,7 +25,7 @@ The dashboard analyzes student financial data to understand spending patterns, i
 
 ## Dashboard
 
-![Student Spending Dashboard](<img width="1366" height="768" alt="Screenshot from 2026-09-23 00-56-36" src="https://github.com/user-attachments/assets/61f6d047-6d86-4bbc-8ff2-f48bb917352e" />)
+![Student Spending Dashboard](Screenshot from 2026-09-23 00-56-36.png)
 
 ## Key Analysis
 
