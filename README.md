@@ -25,7 +25,9 @@ The dashboard analyzes student financial data to understand spending patterns, i
 
 ## Dashboard
 
-![Student Spending Dashboard](Screenshot from 2026-09-23 00-56-36.png)
+## Dashboard
+
+![Student Spending Dashboard](adidasdashboard.png)
 
 ## Key Analysis
 
